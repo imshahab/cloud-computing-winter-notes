@@ -1,4 +1,4 @@
-
+<img width="1472" height="720" alt="head" src="https://github.com/user-attachments/assets/897cbd85-4d01-4526-9b22-5309c00f7f78" />
 
 # Cloud Computing Course — Winter Semester
 
